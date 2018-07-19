@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#40798c</color>
+    <color name="colorPrimaryDark">#29292a</color>
+    <color name="colorAccent">#70a9a1</color>
+    <color name="colorCloudWhite">#ecf0f1</color>
+    <color name="colorCloudWhiteTransparent">#ccecf0f1</color>
+    <color name="colorOrange">#F06543</color>
+    <color name="colorGreen">#7EBC89</color>
+
+    <!-- RecyclerViewMain colors -->
+    <color name="recyclerColorOne">#54A0FF</color>
+    <color name="recyclerColorTwo">#F368E0</color>
+    <color name="recyclerColorThree">#00D2D3</color>
+    <color name="recyclerColorFour">#FF9F43</color>
+    <color name="recyclerColorFive">#2E86DE</color>
+    <color name="recyclerColorSix">#FF6B6B</color>
+    <color name="recyclerColorSeven">#5F27CD</color>
+    <color name="recyclerColorEight">#0ABDE3</color>
+    <color name="recyclerColorNine">#1DD1A1</color>
+</resources>
